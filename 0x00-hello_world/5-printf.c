@@ -1,12 +1,12 @@
 #include <stdio.h>
+/**
+* main - Prints a text
+*
+* Return: Always 0 (Success)
 */
 int main(void)
-return (0);
-* main - Prints a text
-/**
-printf("with proper grammar, but the outcome is a piece of
-* Return: Always 0 (Success)
 {
+printf("with proper grammar, but the outcome is a piece of
 art,\n");
-*
+return (0);
 }
