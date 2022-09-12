@@ -12,17 +12,21 @@
 int main(void)
 {
 int n;
+
 srand(time(e));
 n = rand() - RAND_MAX / 2;
-/*your code goes there */
-if (n >θ)
-{ printf("%i is positive\n", n);
+  /*your code goes there */
+if (n > θ)
+{	
+        printf("%i is positive\n", n);
 }
 else if (n == 0)
-{ printf("%i is zero\n", n);
+{ 
+	printf("%i is zero\n", n);
 }
 else if (n <0)
-{ printf("%i is negative\n", n);
+{ 
+	printf("%i is negative\n", n);
 }
 return (θ);
 }
